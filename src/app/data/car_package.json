@@ -1,0 +1,69 @@
+    {
+        "pakage":[
+            {
+                "id":1,
+                "title":"Ceramic Protection",
+                "slug":"Ceramic-Protection",
+                "short":"Ceramic protection provides a durable, glossy shield for your car, enhancing appearance and resistance.",
+                "description": "Ceramic protection provides durable, heat-resistant, and impact-resistant shielding for surfaces, enhancing longevity and performance in high-stress environments like aerospace, automotive, and industrial applications.",
+                "price": "MRP 6999" ,
+                "isFeatured":true,
+                "image":"/courses/ceramic.png"
+            },
+
+            {
+                "id":2,
+                "title":"PPF",
+                "slug":"PPF",
+                "short":"Protect your car with PPF: invisible shield, prevents scratches, chips, and preserves paint.",
+                "description": "Our Production Possibility Frontier (PPF) showcases the ultimate balance of quality and efficiency, delivering top-tier detailing services within optimal resource utilization.",
+                "price":  "MRP 12999" ,
+                "isFeatured":true,
+                "image":"/courses/ppf.png"
+            },
+
+            {
+                "id":3,
+                "title":"Deep Cleaning",
+                "slug":"Deep-Cleaning",
+                "short":"Experience pristine car interiors and exteriors with our thorough and meticulous deep cleaning service",
+                "description": "OOur car deep cleaning service provides a thorough and efficient clean, ensuring your vehicle looks its best inside and out.",
+                "price": " MRP 2999" ,
+                "isFeatured":true,
+                "image":"/courses/deep.png"
+            },
+            {
+                "id":4,
+                "title":"Wraps",
+                "slug":"Wraps",
+                "short":"Transform your vehicle with custom car wraps for a unique, stylish, and protective finish.",
+                "description": "Our car wrapping service offers a meticulous and efficient application, transforming your vehicle's appearance with high-quality materials for a flawless finish.",
+                "price": " MRP 12999" ,
+                "isFeatured":true,
+                "image":"/courses/wraps.png"
+            },
+            {
+                "id":5,
+                "title":"Car Care Pakages",
+                "slug":"Car-Care-Pakages",
+                "short":"Comprehensive car care packages ensuring top-notch detailing, protection, and maintenance for your vehicle's pristine condition.",
+                "description": "Our car care packages provide comprehensive and efficient detailing services, ensuring your vehicle remains in pristine condition inside and out..",
+                "price": " MRP 24999" ,
+                "isFeatured":true,
+                "image":"/courses/care.png"
+            },
+
+
+            {
+                "id":6,
+                "title":"Modification",
+                "slug":"modification",
+                "short":"Transform your ride with cutting-edge modifications for enhanced performance, style, and unparalleled driving experience.",
+                "description": "Transform your vehicle with expert car modifications. Enhance performance, aesthetics, and functionality for a personalized driving experience. From custom interiors to performance upgrades, drive in style and comfort..",
+                "price": " MRP 24999" ,
+                "isFeatured":true,
+                "image":"/courses/care.png"
+            }
+            
+        ]
+    }
